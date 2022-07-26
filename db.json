@@ -2,33 +2,30 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Vivek",
+      "surname": "Saha"
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
+      "name": "Soumi",
+      "surname": "Sen"
     },
     {
       "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
+      "name": "Goldy",
+      "surname": "Sharma"
     },
     {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
+      "id": 4,
+      "name": "Manju",
+      "surname": "Sharma"
     }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
+  ]
 }
